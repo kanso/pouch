@@ -1,0 +1,19 @@
+{
+    "name": "pouch",
+    "version": "0.0.0-kanso.1",
+    "categories": ["couchdb"],
+    "description": "A complete implementation of the CouchDB storage and views API on top of IndexedDatabase (part of HTML5) that supports peer-to-peer replication with other CouchDB instances.",
+    "maintainers": [
+        {
+            "name": "Caolan McMahon",
+            "url": "http://caolanmcmahon.com"
+        }
+    ],
+    "url": "https://github.com/mikeal/pouchdb",
+    "modules": [
+        "pouch.js"
+    ],
+    "dependencies": {
+        "modules": null
+    }
+}
